@@ -1,1 +1,1 @@
-
+print () - built-in function that displays input values as text in the output
