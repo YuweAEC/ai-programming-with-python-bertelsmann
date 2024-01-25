@@ -1,0 +1,3 @@
+The usual order of mathematical operations holds in Python, often referred to as 
+
+PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
