@@ -1,4 +1,4 @@
-# AI Programming with Python - Bertelsmann
+#AI Programming with Python - Bertelsmann
 
 ## Table of Contents
 
@@ -18,4 +18,5 @@
 ## Acknowledgement
 
 - Gaurav Kumar Singh
+
 
