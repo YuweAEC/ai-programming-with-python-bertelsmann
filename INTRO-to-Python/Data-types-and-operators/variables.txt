@@ -1,0 +1,5 @@
+Besides writing variable names that are descriptive, there are a few things to watch out for when naming variables in Python.
+
+Only use ordinary letters, numbers and underscores in your variable names. They can’t have spaces, and need to start with a letter or underscore.
+
+You can’t use reserved words or built-in identifiers that have important purposes in Python, which you’ll learn about throughout this course. A list of Python reserved words is can be found in the Python documetation. See Lexical analysis - Keywords(opens in a new tab). Creating names that are descriptive of the values often will help you avoid using any of these words. A quick table of these words is also available below.
