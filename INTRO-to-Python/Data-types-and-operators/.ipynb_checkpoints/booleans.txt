@@ -1,0 +1,21 @@
+Booleans, Comparison Operators, and Logical Operators
+
+The bool data type holds one of the values True or False, which are often encoded as 1 or 0, respectively.
+
+There are 6 comparison operators that are common to see in order to obtain a bool value:
+
+Comparison Operators
+Symbol Use Case	Bool	Operation
+5 < 3	False	Less Than
+5 > 3	True	Greater Than
+3 <= 3	True	Less Than or Equal To
+3 >= 5	False	Greater Than or Equal To
+3 == 5	False	Equal To
+3 != 5	True	Not Equal To
+
+there are three logical operators you need to be familiar with:
+   
+Logical Use   	   Bool	       Operation
+5 < 3 and 5 == 5   False	   and - Evaluates if all provided statements are True
+5 < 3 or 5 == 5	   True        or - Evaluates if at least one of many statements is True
+not 5 < 3	       True	       not - Flips the Bool Value
