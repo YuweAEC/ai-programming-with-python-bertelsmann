@@ -13,3 +13,7 @@ venv/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+
+# Ignore Jupyter Notebook autosave files
+*.ipynb_checkpoints/
+
