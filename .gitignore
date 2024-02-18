@@ -23,3 +23,8 @@ venv/
 # Ignore Python virtual environment
 /.env/
 
+
+# Ignore any generated data or models
+data/
+models/
+
