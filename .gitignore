@@ -28,3 +28,10 @@ venv/
 data/
 models/
 
+# Ignore any other temporary or generated files
+*.log
+*.csv
+*.json
+*.h5
+*.pkl
+*.npz
