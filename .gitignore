@@ -17,3 +17,6 @@ venv/
 # Ignore Jupyter Notebook autosave files
 *.ipynb_checkpoints/
 
+# Ignore Jupyter Notebook kernel metadata
+.ipynb_metadata/
+
