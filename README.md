@@ -9,6 +9,7 @@ Welcome to the AI Programming with Python course by Bertelsmann! This course is 
 - [Introduction](#introduction)
 - [Authors](#authors)
 - [Acknowledgement](#acknowledgement)
+- [Course Materials](#course-materials)
 
 ## Authors
 
@@ -18,4 +19,8 @@ Welcome to the AI Programming with Python course by Bertelsmann! This course is 
 
 - **Gaurav Kumar Singh**
 
-Feel free to explore the course materials and embark on your journey into the fascinating world of AI programming with Python!
+## Course Materials
+
+You can access the source code and text files for this course directly from the links provided below:
+
+- [Introduction to Python](/intro_to_python)
