@@ -24,3 +24,4 @@ Welcome to the AI Programming with Python course by Bertelsmann! This course is 
 You can access the source code and text files for this course directly from the links provided below:
 
 - [Introduction to Python] (/https://github.com/YuweAEC/ai-programming-with-python-bertelsmann/tree/main/INTRO-to-Python)
+
